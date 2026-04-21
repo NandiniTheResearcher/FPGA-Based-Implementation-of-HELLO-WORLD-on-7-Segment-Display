@@ -70,8 +70,9 @@ docs/          → Output images
 
 
 <p align="center">
-  <img src="photo-output.jpg" width="45%" />
-  <img src="photo-output_1.jpg" width="45%" />
+  <img src="photo-output_1.jpeg" width="45%" />
+  <img src="photo-output.jpeg" width="45%" />
+  
 </p>
 
 ---
