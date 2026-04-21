@@ -67,7 +67,12 @@ docs/          → Output images
 
 ## 📷 Hardware Output
 
-![Output](docs/output.jpg)
+
+
+<p align="center">
+  <img src="photo-output.jpg" width="45%" />
+  <img src="photo-output_1.jpg" width="45%" />
+</p>
 
 ---
 
